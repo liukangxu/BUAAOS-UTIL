@@ -1,2 +1,2 @@
 # BUAAOS-UTIL
-Useful shell scripts for TA/Teacher
+Some useful shell scripts for TA/Teacher
